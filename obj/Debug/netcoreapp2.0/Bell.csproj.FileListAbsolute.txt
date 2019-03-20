@@ -1,0 +1,11 @@
+/Users/jake/git/quantum/my_first_project/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/jake/git/quantum/my_first_project/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/jake/git/quantum/my_first_project/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/jake/git/quantum/my_first_project/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/jake/git/quantum/my_first_project/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/jake/git/quantum/my_first_project/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
